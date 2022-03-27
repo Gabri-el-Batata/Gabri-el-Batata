@@ -1,6 +1,6 @@
 - 👋 Hi, y'all, I’m @Gabri-el-Batata
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in learn computational vision and machine learning
+- 🌱 I’m currently learning C, but i make some projects in Python
 - 📫 Reach me: gabrielcarodoso47@gmail.com
 - ⚡ Fun fact: I like to play Terraria in my spare time
 
