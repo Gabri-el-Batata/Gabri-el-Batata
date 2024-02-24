@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-
+  <img align="center" alt="Cplusplus" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/cplusplus-original.svg">
 </div>
   
   ## Contact & Social
