@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 # Statistics
 <div align="center">
   <a href="https://github.com/Gabri-el-Batata">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabri-el-Batata&count_private=true&theme=transparent&include_all_commits=true">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabri-el-Batata&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabri-el-Batata&layout=compact&theme=transparent"/>
  
 </div>
